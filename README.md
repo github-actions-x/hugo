@@ -1,11 +1,11 @@
 # hugo
 
-Build you [Hugo](https://gohugo.io) site.
+Use [Hugo](https://gohugo.io) with Github Actions
 
 ## Usage
 
 Build Hugo site and push to GitHub. See [my blog](https://github.com/rusnasonov/blog)
- 
+
 ```yaml
 name: publish
 

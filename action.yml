@@ -1,5 +1,5 @@
-name: 'Build Hugo Site'
-description: 'Build you site with Hugo and Github Actions'
+name: 'Hugo'
+description: 'Use Hugo with Github Actions'
 author: 'Ruslan Nasonov <rus.nasonov@gmail.com>'
 branding:
   icon: 'settings'
