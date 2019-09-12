@@ -1,4 +1,4 @@
-name: 'Hugo'
+name: 'Hugo — Static Site Generator'
 description: 'Use Hugo with Github Actions'
 author: 'Ruslan Nasonov <rus.nasonov@gmail.com>'
 branding:
