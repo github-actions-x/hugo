@@ -1,0 +1,9 @@
+name: 'Build Hugo Site'
+description: 'Build you site with Hugo and Github Actions'
+author: 'Ruslan Nasonov <rus.nasonov@gmail.com>'
+branding:
+  icon: 'settings'
+  color: 'green'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
